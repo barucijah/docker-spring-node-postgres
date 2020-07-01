@@ -2,6 +2,7 @@
 
 ## Info
 Building and runing application using Docker is done with 2 solutions.
+Application available at https://github.com/kkenan/basic-microservices
 
 ## Solution 1/ Run app
 To run app:
